@@ -32,7 +32,7 @@ jam.innerHTML = `${hour}:${minutes}`
 const pengirim = "Mantan ❤";
 const nomorWa = "6282147249233" // awalan nomor 0 harus di awalin 62
 const textWa = "Ah bisa aja kamu <3"
-const pesan = `Pada akhirnya kita berdua menjadi dua orang penjahat: Kamu yang dengan hebatnya bisa mencuri hatiku, begitu juga aku yang berhasil mencuri hatimu`;
+const pesan = `Pada akhirnya kita berdua menjadi dua orang penjahat: Kamu yang dengan hebatnya bisa mencuri hatiku, begitu juga aku yang pernah berhasil mencuri hatimu <3`;
 
 if (pengirim) {
   nama.innerHTML = pengirim;
